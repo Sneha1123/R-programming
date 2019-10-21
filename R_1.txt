@@ -1,0 +1,9 @@
+1. Install R :
+	>> https://cran.r-project.org/
+
+2. Download R Studio:
+3. Change Appearance:
+	Settings -> Preferences -> Appearance
+4. Start Programming :
+	R Script
+	"Hello World" -> Run(Make sure the cursor is not the same line)
